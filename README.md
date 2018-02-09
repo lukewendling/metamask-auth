@@ -1,0 +1,1 @@
+# Wallet auth demo app
