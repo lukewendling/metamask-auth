@@ -49,7 +49,9 @@ class Counter extends React.Component {
     return (
       <div>
         <Icon name="database" />
-        {this.state.clickCount} click(s)
+        <Label circular color="orange">
+          {this.state.clickCount} click(s)
+        </Label>
       </div>
     );
   }
