@@ -5,7 +5,8 @@
   "license": "MIT",
   "scripts": {
     "dev": "next dev",
-    "start": "nodemon server"
+    "start": "node server",
+    "watch": "nodemon server"
   },
   "dependencies": {
     "@zeit/next-css": "0.0.7",
