@@ -10,9 +10,9 @@ I used Next.js views only because it's page-driven conventions makes it well-sui
 
 ### References
 
-https://medium.com/metamask/scaling-web3-with-signtypeddata-91d6efc8b290
-https://medium.com/metamask/the-new-secure-way-to-sign-data-in-your-browser-6af9dd2a1527
-https://hackernoon.com/never-use-passwords-again-with-ethereum-and-metamask-b61c7e409f0d
+* https://medium.com/metamask/scaling-web3-with-signtypeddata-91d6efc8b290
+* https://medium.com/metamask/the-new-secure-way-to-sign-data-in-your-browser-6af9dd2a1527
+* https://hackernoon.com/never-use-passwords-again-with-ethereum-and-metamask-b61c7e409f0d
 
 ### Dependencies
 
