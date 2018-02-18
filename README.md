@@ -8,6 +8,8 @@ I stumbled on a cpl of medium posts that describe how we can authenticate users 
 
 I used Next.js views only because it's page-driven conventions makes it well-suited for simple demos.
 
+<img src="https://user-images.githubusercontent.com/12628/36066630-b0406922-0e72-11e8-9b3f-fdcfcde27a2f.png" />
+
 ### References
 
 * https://medium.com/metamask/scaling-web3-with-signtypeddata-91d6efc8b290
